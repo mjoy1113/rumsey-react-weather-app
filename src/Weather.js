@@ -90,6 +90,11 @@ export default function Weather() {
         </div>
         <div className="coded-by">
           <small>-coded by morgan rumsey-</small>
+          <div>
+            <a href="https://github.com/mjoy1113/rumsey-react-weather-app.git">
+              github
+            </a>
+          </div>
         </div>
       </div>
     </div>
